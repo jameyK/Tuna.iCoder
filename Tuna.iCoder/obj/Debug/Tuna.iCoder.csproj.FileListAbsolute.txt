@@ -1,0 +1,12 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Tuna.iCoder\Tuna.iCoder\bin\Debug\Tuna.iCoder.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Tuna.iCoder\Tuna.iCoder\bin\Debug\Tuna.iCoder.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Tuna.iCoder\Tuna.iCoder\bin\Debug\Tuna.iCoder.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Tuna.iCoder\Tuna.iCoder\obj\Debug\Tuna.iCoder.CodeMaker.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Tuna.iCoder\Tuna.iCoder\obj\Debug\Tuna.iCoder.CodeProduce.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Tuna.iCoder\Tuna.iCoder\obj\Debug\Tuna.iCoder.ModelCreate.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Tuna.iCoder\Tuna.iCoder\obj\Debug\Tuna.iCoder.ModelSettingOperate.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Tuna.iCoder\Tuna.iCoder\obj\Debug\Tuna.iCoder.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Tuna.iCoder\Tuna.iCoder\obj\Debug\Tuna.iCoder.ResourceManagementControl.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Tuna.iCoder\Tuna.iCoder\obj\Debug\Tuna.iCoder.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Tuna.iCoder\Tuna.iCoder\obj\Debug\Tuna.iCoder.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Tuna.iCoder\Tuna.iCoder\obj\Debug\Tuna.iCoder.pdb

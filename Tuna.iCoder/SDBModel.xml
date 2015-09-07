@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <entity desc="表对应实体信息">
+    <table name="UserCenter" desc="用户信息表">
+      <column name="Id" type="string" length="10" isNotNull="true" isKey="true" desc="用户编号，主键"></column>
+      <column name="UserName" type="string" length="50" isNotNull="true" desc="用户名"></column>
+      <column name="Age" type="int" desc="年龄"></column>
+      <column name="Birthday" type="datetime" desc="生日"></column>
+      <column name="Deposit" type="decimal" desc="存款"></column>
+    </table>
+  </entity>
+  <dto desc="自定义类型信息">
+    
+  </dto>
+  <settings>
+    <setting name="UserCenter"></setting>
+  </settings>
+</configuration>

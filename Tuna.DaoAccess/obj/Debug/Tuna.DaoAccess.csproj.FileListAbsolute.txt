@@ -1,0 +1,23 @@
+I:\benhan\多来乐音乐系统\03 框架代码\Tuna.Framework\Tuna.DaoAccess\bin\Debug\Tuna.DaoAccess.dll
+I:\benhan\多来乐音乐系统\03 框架代码\Tuna.Framework\Tuna.DaoAccess\bin\Debug\Tuna.DaoAccess.pdb
+I:\benhan\多来乐音乐系统\03 框架代码\Tuna.Framework\Tuna.DaoAccess\bin\Debug\Tuna.ServiceIoC.dll
+I:\benhan\多来乐音乐系统\03 框架代码\Tuna.Framework\Tuna.DaoAccess\bin\Debug\Tuna.Utility.dll
+I:\benhan\多来乐音乐系统\03 框架代码\Tuna.Framework\Tuna.DaoAccess\bin\Debug\Enyim.Caching.dll
+I:\benhan\多来乐音乐系统\03 框架代码\Tuna.Framework\Tuna.DaoAccess\bin\Debug\Newtonsoft.Json.dll
+I:\benhan\多来乐音乐系统\03 框架代码\Tuna.Framework\Tuna.DaoAccess\bin\Debug\BH.Windows.Controls.dll
+I:\benhan\多来乐音乐系统\03 框架代码\Tuna.Framework\Tuna.DaoAccess\bin\Debug\log4net.dll
+I:\benhan\多来乐音乐系统\03 框架代码\Tuna.Framework\Tuna.DaoAccess\bin\Debug\Tuna.ServiceIoC.pdb
+I:\benhan\多来乐音乐系统\03 框架代码\Tuna.Framework\Tuna.DaoAccess\bin\Debug\Tuna.Utility.pdb
+I:\benhan\多来乐音乐系统\03 框架代码\Tuna.Framework\Tuna.DaoAccess\bin\Debug\Enyim.Caching.pdb
+I:\benhan\多来乐音乐系统\03 框架代码\Tuna.Framework\Tuna.DaoAccess\bin\Debug\Enyim.Caching.xml
+I:\benhan\多来乐音乐系统\03 框架代码\Tuna.Framework\Tuna.DaoAccess\bin\Debug\Newtonsoft.Json.xml
+I:\benhan\多来乐音乐系统\03 框架代码\Tuna.Framework\Tuna.DaoAccess\bin\Debug\BH.Windows.Controls.pdb
+I:\benhan\多来乐音乐系统\03 框架代码\Tuna.Framework\Tuna.DaoAccess\bin\Debug\log4net.xml
+I:\benhan\多来乐音乐系统\03 框架代码\Tuna.Framework\Tuna.DaoAccess\obj\Debug\Tuna.DaoAccess.csprojResolveAssemblyReference.cache
+I:\benhan\多来乐音乐系统\03 框架代码\Tuna.Framework\Tuna.DaoAccess\obj\Debug\Tuna.DaoAccess.dll
+I:\benhan\多来乐音乐系统\03 框架代码\Tuna.Framework\Tuna.DaoAccess\obj\Debug\Tuna.DaoAccess.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Tuna.iCoder\Tuna.DaoAccess\bin\Debug\Tuna.DaoAccess.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Tuna.iCoder\Tuna.DaoAccess\bin\Debug\Tuna.DaoAccess.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Tuna.iCoder\Tuna.DaoAccess\obj\Debug\Tuna.DaoAccess.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Tuna.iCoder\Tuna.DaoAccess\obj\Debug\Tuna.DaoAccess.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Tuna.iCoder\Tuna.DaoAccess\obj\Debug\Tuna.DaoAccess.csprojResolveAssemblyReference.cache

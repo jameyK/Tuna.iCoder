@@ -1,0 +1,7 @@
+c:\users\administrator\documents\visual studio 2012\Projects\Tuna.iCoder\Tuna.iCoder.Base\obj\Debug\Tuna.iCoder.Base.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\Tuna.iCoder\Tuna.iCoder.Base\bin\Debug\Tuna.iCoder.Base.dll
+c:\users\administrator\documents\visual studio 2012\Projects\Tuna.iCoder\Tuna.iCoder.Base\bin\Debug\Tuna.iCoder.Base.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\Tuna.iCoder\Tuna.iCoder.Base\bin\Debug\Tuna.DaoAccess.dll
+c:\users\administrator\documents\visual studio 2012\Projects\Tuna.iCoder\Tuna.iCoder.Base\bin\Debug\Tuna.DaoAccess.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\Tuna.iCoder\Tuna.iCoder.Base\obj\Debug\Tuna.iCoder.Base.dll
+c:\users\administrator\documents\visual studio 2012\Projects\Tuna.iCoder\Tuna.iCoder.Base\obj\Debug\Tuna.iCoder.Base.pdb

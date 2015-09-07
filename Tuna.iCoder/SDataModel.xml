@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <tablemaps>
+    <add name="usercenter">
+      <!--参数省略，传递对象已包含驱动信息 driver="Tuna.Models.Entity.UserCenter, Tuna.Models"-->
+      <operations>
+        <add name="insertUserMain" type="insert">
+          <fields>id,username,,userage</fields>
+        </add>
+        
+        <add name="insertUserMain" type="insert"/>
+        
+        <add name="insertUserAll" type="insert"/>
+        
+        <add name="updateUserA" type="update">
+          <fields>id,username,,userage</fields>
+          <keynames>username,</keynames>
+        </add>
+        
+        <add name="updateUserB" type="update">
+          <fields>id,username,,userage</fields>
+          <keynames>username,</keynames>
+          <wherecondition>"Id='{0}' and username like '%123%'"</wherecondition>
+        </add>
+        
+        <add name="searchUserAll" type="search">
+          <keynames>username,</keynames>
+        </add>
+        
+        <add name="deleteUser" type="delete">
+          <keynames>username,</keynames>
+        </add>
+      </operations>
+    </add>
+  </tablemaps>
+</configuration>
